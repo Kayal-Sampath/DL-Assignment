@@ -1,5 +1,4 @@
-# DL-Assignment
-Implement any 3 ML algorithms and compare their performance using KfoldXV method. 
+# ASSIGNMENT 1 : Implement any 3 ML algorithms and compare their performance using KfoldXV method. 
 
 1. Choose any 3 ML algorithms and give a brief description for each algorithm.
 
@@ -11,5 +10,32 @@ Implement any 3 ML algorithms and compare their performance using KfoldXV method
 
 5. Inference and conclusion
 
-
 CODE - code_demo_dl.py
+
+______________________________________________________________________________________________________
+
+# ASSIGNMENT 2 : Training ConvNet
+1. Download dataset
+
+Reference:cnn Datasets and Machine Learning Projects | Kaggle
+
+2. Build the network
+
+3. Perform data pre-processing
+
+4. Execute the model and demonstrate the optimizations 
+
+Reference:
+
+5.2-using-convnets-with-small-datasets.ipynb - Colaboratory (google.com)
+
+Record your observations and screenshots of the results.
+
+CODE - training_convet.py
+
+______________________________________________________________________________________________________
+
+# ASSIGNMENT 3 : Text Prediction using LSTM
+
+
+CODE - sequencec_prediction.py
