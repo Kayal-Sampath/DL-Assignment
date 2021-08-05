@@ -10,3 +10,6 @@ Implement any 3 ML algorithms and compare their performance using KfoldXV method
 4. Performance metric/s and the comparison table (60:40, 70:30, 80:20, 90:10)
 
 5. Inference and conclusion
+
+
+CODE - 
